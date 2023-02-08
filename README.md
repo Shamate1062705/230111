@@ -1,2 +1,2 @@
-# SQL教材
-https://drive.google.com/drive/folders/1saGjQy9Zh-P_I4pmIgHj2NAOUTsdr2iP?usp=share_link
+# 原始教學
+https://gigazine.net/news/20220907-automatic1111-stable-diffusion-webui/#2
